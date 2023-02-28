@@ -1,13 +1,13 @@
 # tetris
 
-Installation: pip install -r requirements.txt\
+Installation: pip install -r requirements.txt
 
-How to play:\
+How to play:
 
-Arrow left to move left\
+Arrow left to move left
 
-Arrow right to move right\
+Arrow right to move right
 
-R to rotate piece\
+R to rotate piece
 
-Arrow down to drop piece immediately\
+Arrow down to drop piece immediately
